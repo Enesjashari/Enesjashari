@@ -7,7 +7,7 @@ Software , Web-app ,Tkinter , Django , Numpy , HTML&CSS Developer
 About me Passionated about programming, problem solving,Al & ML and creating things through programming,capable to work in multiple projects. I also like the field of cyber security
 
 * 🌍  I'm based in Kosovo
-* 🖥️  See my portfolio at [My Portfolio](http://enesjashari.github.io/)
+* 🖥️  See my portfolio at [Enes Jashari Portfolio](http://enesjashari.github.io/)
 * ✉️  You can contact me at [enesjashari2004@gmail.com](mailto:enesjashari2004@gmail.com)
 * 🚀  I'm currently working on [Nes Magazine](http://youtu.be/rZYZSp_2s7Y)
 * 🧠  I'm learning Machine Learning
