@@ -6,6 +6,8 @@ Software , Web-app ,Tkinter , Django , Numpy , HTML&CSS Developer
 
 Passionated about programming, problem solving,Al & ML and creating things through programming,capable to work in multiple projects. I also like the field of cyber security.
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enesjashari" alt="eaglegazii" /></a> </p>
+
 * 🌍  I'm based in Kosovo
 * 🖥️  See my portfolio at [Enes Jashari Portfolio](http://https://enesjashari.github.io/)
 * ✉️  You can contact me at [enesjashari2004@gmail.com](mailto:enesjashari2004@gmail.com)
