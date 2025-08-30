@@ -62,7 +62,7 @@ Responsive Design | SEO | Google Analytics | UI/UX
 
 ## 📂 Highlight Projects
 
-- 🤖 [**Solus**](https://enes-personal-assistant.netlify.app)Solus AI Personal Assistant
+- 🤖 [**Solus**](https://enes-personal-assistant.netlify.app) AI Personal Assistant
 - Full-stack AI-powered personal assistant with conversational LLMs
 - 🔐 **E-Banking API** — Real-time financial API with key security & data control  
 - 📈 **ML Stock Market Predictions** — Machine Learning for financial forecasting  
