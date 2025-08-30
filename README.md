@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Jashari</h1>
 
 <p align="center">
-  <a href="https://enesjashari.github.io/">🌐 Portfolio</a> •
+  <a href="https://enesjashari.com">🌐 Portfolio</a> •
   <a href="mailto:enesjashari2004@gmail.com">📫 Contact</a> •
   <a href="https://linkedin.com/in/enesjashari">💼 LinkedIn</a> •
   <a href="https://github.com/enesjashari">💻 GitHub</a>
@@ -9,12 +9,11 @@
 
 ---
 
-🎯 **Senior Full-Stack Engineer** at **Locum Providers (AI Department)**, USA  
-📚 **Programming Instructor** at **A.U.K (TDI Department)**, Kosovo  
-🧠 Passionate about Artificial Intelligence, Problem Solving, Web Engineering, and Tech Education  
-🚀 Building scalable applications, streamlining workflows, and developing cutting-edge AI tools  
-💬 Open to global opportunities, collaborations, and contributions in open-source
-
+🌍 Currently open to work, seeking global opportunities, collaborations, and contributions in open-source
+🎯 Former Senior Full-Stack Engineer & AI Engineer at Locum Providers (AI Department), Boston, MA
+📚 Former Programming Instructor at A.U.K (TDI Department), Kosovo
+🧠 Passionate about Artificial Intelligence, Problem Solving, Web Engineering, and Tech Education
+🚀 Experienced in building scalable applications, streamlining workflows, and developing cutting-edge AI tools
 ---
 
 ## 🛠️ Tech Stack
@@ -62,6 +61,8 @@ Responsive Design | SEO | Google Analytics | UI/UX
 
 ## 📂 Highlight Projects
 
+- 🤖 [**Solus**](https://enes-personal-assistant.netlify.app)Solus AI Personal Assistant
+- Full-stack AI-powered personal assistant with conversational LLMs
 - 🔐 **E-Banking API** — Real-time financial API with key security & data control  
 - 📈 **ML Stock Market Predictions** — Machine Learning for financial forecasting  
 - 💬 [**Quote API**](https://quoteapi.pythonanywhere.com) — Inspirational quotes API  
@@ -94,7 +95,7 @@ Responsive Design | SEO | Google Analytics | UI/UX
 ## 🤝 Let's Connect!
 
 - 📬 [Email](mailto:enesjashari2004@gmail.com)  
-- 🌐 [Portfolio](https://enesjashari.github.io)  
+- 🌐 [Portfolio](https://enesjashari.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/enesjashari)
 
 ---
