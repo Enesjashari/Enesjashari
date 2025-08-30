@@ -9,11 +9,12 @@
 
 ---
 
-🌍 Currently open to work, seeking global opportunities, collaborations, and contributions in open-source
-🎯 Former Senior Full-Stack Engineer & AI Engineer at Locum Providers (AI Department), Boston, MA
-📚 Former Programming Instructor at A.U.K (TDI Department), Kosovo
-🧠 Passionate about Artificial Intelligence, Problem Solving, Web Engineering, and Tech Education
-🚀 Experienced in building scalable applications, streamlining workflows, and developing cutting-edge AI tools
+🌍 Currently open to work, seeking global opportunities, collaborations, and contributions in open-source <br>
+🎯 Former Senior Full-Stack Engineer & AI Engineer at Locum Providers (AI Department), Boston, MA <br>
+📚 Former Programming Instructor at A.U.K (TDI Department), Kosovo <br>
+🧠 Passionate about Artificial Intelligence, Problem Solving, Web Engineering, and Tech Education <br>
+🚀 Experienced in building scalable applications, streamlining workflows, and developing cutting-edge AI tools  
+
 ---
 
 ## 🛠️ Tech Stack
